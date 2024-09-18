@@ -21,7 +21,7 @@ Esta é uma API simples para gerenciar o estoque de uma loja, construída com Ex
 
 1. Inicie o servidor:
     ```bash
-    node <nome do arquivo>
+    node <NOME_DO_ARQUIVO>
     ```
 2. O servidor estará rodando na porta 3000.
 
