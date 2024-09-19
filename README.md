@@ -106,3 +106,4 @@ Esta é uma API simples para gerenciar o estoque de uma loja, construída com Ex
 
 - Express
 - PouchDB
+- Java Script
