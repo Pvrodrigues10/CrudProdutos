@@ -3,9 +3,9 @@ const PouchDB = require('pouchdb');
 
 const app = express();
 const port = 3000;
-const db = new PouchDB('db/estoqueLoja');
+const db = new PouchDB('../db/estoqueLoja');
 
-app.use(express.json());
+app.use(express.json());    
 
 
 app.post('/products', async (req, res) => {
